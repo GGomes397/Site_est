@@ -1,0 +1,8 @@
+---
+title: "Encontro com a Estatística"
+description: "Bem-vindo ao site. Espero que você goste!"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)

@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-03-16T19:12:46-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Encontro com a Estatística",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-03-16T19:12:50-03:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,10 @@
+name: "."
+title: "Encontro com a Estatística"
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Sobre"
+      href: about.html
+output: distill::distill_website
